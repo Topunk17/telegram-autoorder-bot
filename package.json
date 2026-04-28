@@ -1,0 +1,16 @@
+{
+  "name": "telegram-autoorder-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot auto order",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "mysql2": "^3.22.3",
+    "node-telegram-bot-api": "^0.67.0"
+  }
+}
